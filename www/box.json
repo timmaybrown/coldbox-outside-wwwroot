@@ -1,5 +1,5 @@
 {
-    "name":"coldbox-outside-www",
+    "name":"coldbox-outside-wwwroot",
     "version":"0.0.1",
     "author":"Tim Brown",
     "location":"",
@@ -13,7 +13,7 @@
         "url":""
     },
     "bugs":"",
-    "slug":"coldbox-outside-www",
+    "slug":"coldbox-outside-wwwroot",
     "shortDescription":"Skeleton : Coldbox Outside the webroot",
     "description":"Skeleton App with Coldbox placed outside the webroot",
     "instructions":"",
